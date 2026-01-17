@@ -306,9 +306,6 @@
   .w-\[100\%\] {
     width: 100%;
   }
-  .w-\[100\] {
-    width: 100;
-  }
   .w-\[800\%\] {
     width: 800%;
   }
@@ -401,12 +398,6 @@
   .bg-\[\#10bfa4\] {
     background-color: #10bfa4;
   }
-  .bg-\[\(\)\] {
-    background-color: ();
-  }
-  .bg-\[url\] {
-    background-color: url;
-  }
   .bg-amber-50 {
     background-color: var(--color-amber-50);
   }
@@ -461,32 +452,14 @@
   .bg-\[url\(\)\] {
     background-image: url();
   }
-  .bg-\[url\(\.\/\)\] {
-    background-image: url(./);
-  }
   .bg-\[url\(\.\/src\/7083e557-dd56-4d23-92c8-d118cf324406\.jpg\)\] {
     background-image: url(./src/7083e557-dd56-4d23-92c8-d118cf324406.jpg);
-  }
-  .bg-\[url\(\.\/src\/7083e557-dd56-4d23-92c8-d118cf324406\.pn\)\] {
-    background-image: url(./src/7083e557-dd56-4d23-92c8-d118cf324406.pn);
-  }
-  .bg-\[url\(\.\/src\/7083e557-dd56-4d23-92c8-d118cf324406\.png\)\] {
-    background-image: url(./src/7083e557-dd56-4d23-92c8-d118cf324406.png);
   }
   .bg-\[url\(\.\/src\/INNOMA\.VC\.png\)\] {
     background-image: url(./src/INNOMA.VC.png);
   }
-  .bg-\[url\(\/img\/mountains\.jpg\)\] {
-    background-image: url(/img/mountains.jpg);
-  }
-  .bg-\[url\(\/src\/7083e557-dd56-4d23-92c8-d118cf324406\.jpg\)\] {
-    background-image: url(/src/7083e557-dd56-4d23-92c8-d118cf324406.jpg);
-  }
   .bg-\[url\(src\/7083e557-dd56-4d23-92c8-d118cf324406\.jpg\)\] {
     background-image: url(src/7083e557-dd56-4d23-92c8-d118cf324406.jpg);
-  }
-  .bg-\[url\(src\/INNOMA\.VC\.png\)\] {
-    background-image: url(src/INNOMA.VC.png);
   }
   .bg-\[url\(ю\.src\/7083e557-dd56-4d23-92c8-d118cf324406\.jpg\)\] {
     background-image: url(ю.src/7083e557-dd56-4d23-92c8-d118cf324406.jpg);
